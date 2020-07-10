@@ -1,3 +1,6 @@
+- title: "Continuous Prefetch for Interactive Data Applications"
+  auth: Haneen Mohammed, Ziyun Wei, Eugene Wu, Ravi Netravali
+  where: VLDB, 2020 (to appear)
 - title: "Culling for Extreme-Scale Segmentation Volumes: A Hybrid Deterministic and Probabilistic Approach"
   url: https://vcg.seas.harvard.edu/publications/hybrid-culling
   auth: J. Beyer, H. Mohammed, M. Agus, A. Al-Awami, H. Pfister, M. Hadwiger
