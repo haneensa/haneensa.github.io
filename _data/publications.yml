@@ -1,3 +1,6 @@
+- title: "FaDE: More Than a Million What-ifs Per Second."
+  auth: Haneen Mohammed, Alexander Yao, Charlie Summers, Hongbin Zhong, Gromit Yeuk-Yin Chan, Subrata Mitra, Lampros Flokas, and Eugene Wu.
+  where: VLDB, 2024 
 - title: "Demonstration of SmokedDuck: Fast Lineage in Vectorized Databases"
   auth: Haneen Mohammed, Charlie Summers, Sughosh Kaushik, Eugene Wu
   where: SIGMOD (Demo), 2023 
