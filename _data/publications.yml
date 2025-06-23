@@ -1,3 +1,12 @@
+- title: "Lineage Capture Trade-offs: A Case Study in DuckDB."
+  auth: Haneen Mohammed and Eugene Wu.
+  where: ProvenanceWeek Workshop, 2025
+- title: "Compression for High-Performance Lineage."
+  auth: Xiaoyu Han, Haneen Mohammed, Charlie Summers, and Eugene Wu.
+  where: ProvenanceWeek Workshop, 2025
+- title: "Fast Hypothetical Updates Evaluation."
+  auth: Haneen Mohammed, Alexander Yao, Charlie Summers, Hongbin Zhong, Gromit Yeuk-Yin Chan, Subrata Mitra, Lampros Flokas, and Eugene Wu.
+  where: ProvenanceWeek Workshop, 2025
 - title: "FaDE: More Than a Million What-ifs Per Second."
   auth: Haneen Mohammed, Alexander Yao, Charlie Summers, Hongbin Zhong, Gromit Yeuk-Yin Chan, Subrata Mitra, Lampros Flokas, and Eugene Wu.
   where: VLDB, 2024 
