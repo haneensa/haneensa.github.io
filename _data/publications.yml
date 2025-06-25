@@ -1,6 +1,7 @@
 - title: "Lineage Capture Trade-offs: A Case Study in DuckDB."
   auth: Haneen Mohammed and Eugene Wu.
   where: ProvenanceWeek Workshop, 2025
+  pdf: https://drive.google.com/file/d/1ijXIU0H5ieakEqPKSFuNQnsxycA8qQ7i/view?usp=share_link
 - title: "Compression for High-Performance Lineage."
   auth: Xiaoyu Han, Haneen Mohammed, Charlie Summers, and Eugene Wu.
   where: ProvenanceWeek Workshop, 2025
@@ -10,6 +11,7 @@
 - title: "FaDE: More Than a Million What-ifs Per Second."
   auth: Haneen Mohammed, Alexander Yao, Charlie Summers, Hongbin Zhong, Gromit Yeuk-Yin Chan, Subrata Mitra, Lampros Flokas, and Eugene Wu.
   where: VLDB, 2024 
+  pdf: https://www.vldb.org/pvldb/vol18/p943-mohammed.pdf
 - title: "Demonstration of SmokedDuck: Fast Lineage in Vectorized Databases"
   auth: Haneen Mohammed, Charlie Summers, Sughosh Kaushik, Eugene Wu
   where: SIGMOD (Demo), 2023 
